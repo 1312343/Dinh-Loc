@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "238578030800",
+    "project_id": "gcmdemo-59fb4"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238578030800:android:2375a8f2685de79b",
+        "android_client_info": {
+          "package_name": "matos.csu.gcmdemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPiSh5NhNQAFHO5Y7dBoEoRcFqD5dvAa0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
